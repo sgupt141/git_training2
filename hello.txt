@@ -1,2 +1,6 @@
 Hello Sumit
+<<<<<<< HEAD
 Login
+=======
+Registration
+>>>>>>> 2c6d4de3a9c4bbf935f530f0cd8432ac6e5c4bdf
